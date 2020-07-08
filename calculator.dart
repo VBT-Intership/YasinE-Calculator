@@ -40,7 +40,7 @@ void _chooseOperation(int input) {
       exit(0);
       break;
     default:
-      print("Yanlıs islem gerçekleştirdiniz");
+      print("Yanlış işlem gerçekleştirdiniz");
   }
 }
 
